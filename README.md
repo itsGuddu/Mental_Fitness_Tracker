@@ -1,6 +1,6 @@
-# Mental Health Forecaster
+# Mental Health Tracker
 
-The Mental Health Forecaster project emphasizes on predicting the Disability-Adjusted Life Years (DALYs) caused by mental disorders in different countries. This application utilizes a robust regression model to deliver accurate predictions based on user-inputted data.
+The Mental Health Tracker project emphasizes on predicting the Disability-Adjusted Life Years (DALYs) caused by mental disorders in different countries. This application utilizes a robust regression model to deliver accurate predictions based on user-inputted data.
 
 ## INSTALLATION
 To use the code and run the app, follow these steps:
